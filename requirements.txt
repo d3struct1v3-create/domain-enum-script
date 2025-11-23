@@ -1,0 +1,5 @@
+Devono essere installati i seguenti tools:
+
+Bash
+Amass
+DIG (dnsutils)
